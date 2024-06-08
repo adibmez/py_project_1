@@ -2137,6 +2137,25 @@ di = {'x' : 2}'''
 #     print('matched1')
 #
 
-#  --- end anisul islam video hah ---
+'''
+def func():
+    print:('Ending my py learning file')
+func()
+
+--- Function with Pytcharm JetBrain Idle ---
+
+'''
+
+
+#  --- end with anisul islam video hah ---
+#  --- end with hablu video hah ---
+#  --- end with unknown youtube video hah ---
+#  --- end with Thank you everyone hah ---
+
+#  --- MAY 2024 ---
+#  --- Pyhton IDLE ---
+
+
 # End my Trail Py script...
-# i miss you
+# ended mission.
+# i miss you my 1st idle file.......... :)
